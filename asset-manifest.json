@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/oprcytek/static/css/main.073c9b0a.css",
-    "main.js": "/oprcytek/static/js/main.1d687601.js",
+    "main.js": "/oprcytek/static/js/main.635218ad.js",
     "static/js/787.ebc7926f.chunk.js": "/oprcytek/static/js/787.ebc7926f.chunk.js",
     "static/media/logo.svg": "/oprcytek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/oprcytek/index.html",
     "main.073c9b0a.css.map": "/oprcytek/static/css/main.073c9b0a.css.map",
-    "main.1d687601.js.map": "/oprcytek/static/js/main.1d687601.js.map",
+    "main.635218ad.js.map": "/oprcytek/static/js/main.635218ad.js.map",
     "787.ebc7926f.chunk.js.map": "/oprcytek/static/js/787.ebc7926f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1d687601.js"
+    "static/js/main.635218ad.js"
   ]
 }
